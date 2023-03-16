@@ -5,7 +5,7 @@ import pandas as pd
 from app_store_scraper import AppStore
 from google_play_scraper import Sort, reviews
 
-NUMBER_OF_REVIEWS = 100 # MUST BE Multiple of 20
+NUMBER_OF_REVIEWS = 5 # MUST BE Multiple of 20
 
 if __name__ == "__main__":
     g_reviews, _ = reviews(
@@ -48,5 +48,5 @@ if __name__ == "__main__":
     a_df2 = a_df2.where(pd.notnull(a_df2), None)
 
     result = pd.concat([g_df2, a_df2])
-    result.to_csv("instagram_100.csv")
+    result.to_csv("instagram.csv")
 
