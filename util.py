@@ -24,7 +24,7 @@ def fetch_reviews_to_csv_play_store(app_name, play_store_app_id, number_of_revie
                           'thumbsUpCount': 'thumbs_up'}, inplace=True)
     g_df2.insert(loc=0, column='source', value='Google Play')
     g_df2.insert(loc=0, column='appName', value=app_name)
-    g_df2.insert(loc=3, column='review_title', value=None)
+    # g_df2.insert(loc=3, column='review_title', value=None)
     g_df2['language_code'] = 'en'
     g_df2['country_code'] = 'us'
 

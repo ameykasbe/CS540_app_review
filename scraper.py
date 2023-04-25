@@ -2,6 +2,7 @@ import csv
 from util import *
 import pathlib
 import os
+import traceback
 
 path = pathlib.Path(__file__).parent / 'csv'
 children = path.glob('**/*')
@@ -29,7 +30,8 @@ with open(file) as csv_file:
                                     export_file_name = file.name)
         except Exception as e:
             print("Error occured in app: ", app_name)
-            print(e)
+            traceback.print_exc()
+            break
 
 
         # play_store_app_id = "com.instagram.android"
