@@ -9,8 +9,7 @@ Clean Master,com.cleanmaster.mguard,655502610,com.ksc.cleaner
 Dropbox,com.dropbox.android,327630330,com.getdropbox.Dropbox
 ES File Explorer,com.estrongs.android.pop,281796108,com.estrongs.iphone
 Evernote,com.evernote,281796108,com.evernote.iPhone.Evernote
-Google Drive,com.google.android.apps.docs,507874739,com.google.Drive
-Grammarly,com.grammarly.android,1158877342,com.grammarly.grammarly
+Grammarly,com.grammarly.android.keyboard,1158877342,com.grammarly.grammarly
 IFTTT,com.ifttt.ifttt,660944635,com.ifttt.ifttt.ifttt
 LastPass,com.lastpass.lpandroid,324613447,com.lastpass.ilastpass
 Microsoft Excel,com.microsoft.office.excel,586683407,com.microsoft.Office.Excel
@@ -21,7 +20,7 @@ Notion,notion.id,1232780281,notion.id
 Nova Launcher,com.teslacoilsw.launcher,1291438553,com.teslacoilsw.launcher
 OfficeSuite,com.mobisystems.office,366364109,com.mobisystems.OfficeSuite
 Outlook,com.microsoft.office.outlook,951937596,com.microsoft.Office.Outlook
-PDF Extra,com.mobisystems.office.pdfeditor,1175540289,com.mobisystems.PDFExtra
+PDF Extra,com.mobisystems.mobiscanner,1175540289,com.mobisystems.PDFExtra
 PicsArt,com.picsart.studio,587366035,com.picsart.PicsArt-Studio
 Pocket,com.ideashower.readitlater.pro,309601447,com.ideashower.ReadItLaterPro
 QR Code Reader,com.qrcodescanner.barcodescanner,381698089,com.qrcodescanner.QRCodeReader
