@@ -18,7 +18,7 @@ def fetch_reviews_to_csv_play_store(app_name, play_store_app_id, number_of_revie
     g_df = pd.DataFrame(np.array(g_reviews), columns=['review'])
     g_df2 = g_df.join(pd.DataFrame(g_df.pop('review').tolist()))
 
-    # g_df2.drop(columns={'userImage', 'reviewCreatedVersion'}, inplace=True)
+    # g_df2.drop(columns=['userImage', 'reviewCreatedVersion'], axis=1, inplace=True)
     g_df2.rename(columns={'score': 'rating', 'userName': 'user_name', 'reviewId': 'review_id', 'content': 'review_description',
                           'at': 'review_date', 'replyContent': 'developer_response', 'repliedAt': 'developer_response_date',
                           'thumbsUpCount': 'thumbs_up'}, inplace=True)
