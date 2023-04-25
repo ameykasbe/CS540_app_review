@@ -1,23 +1,21 @@
 import uuid
-
 import numpy as np
 import pandas as pd
 from app_store_scraper import AppStore
 from google_play_scraper import Sort, reviews
 
-NUMBER_OF_REVIEWS = 5 # MUST BE Multiple of 20
 
-if __name__ == "__main__":
+def fetch_reviews_to_csv(play_store_app_id, app_store_app_id, app_store_name, number_of_reviews, export_file_name):
     g_reviews, _ = reviews(
-        "com.instagram.android",
+        play_store_app_id,
         lang='en',  # defaults to 'en'
         country='us',  # defaults to 'us'
         sort=Sort.NEWEST,  # defaults to Sort.MOST_RELEVANT
-        count = NUMBER_OF_REVIEWS
+        count = number_of_reviews
     )
 
-    a_reviews = AppStore('us', 'instagram', '389801252')
-    a_reviews.review(how_many=NUMBER_OF_REVIEWS)
+    a_reviews = AppStore('us', app_store_name, app_store_app_id)
+    a_reviews.review(how_many=number_of_reviews)
 
 
     g_df = pd.DataFrame(np.array(g_reviews), columns=['review'])
@@ -48,5 +46,4 @@ if __name__ == "__main__":
     a_df2 = a_df2.where(pd.notnull(a_df2), None)
 
     result = pd.concat([g_df2, a_df2])
-    result.to_csv("instagram.csv")
-
+    result.to_csv(export_file_name)
