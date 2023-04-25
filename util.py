@@ -6,7 +6,6 @@ from google_play_scraper import Sort, reviews
 import os
 
 def fetch_reviews_to_csv(app_name, play_store_app_id, app_store_app_id, app_store_name, number_of_reviews, export_file_name):
-    number_of_reviews = 10
     g_reviews, _ = reviews(
         play_store_app_id,
         lang='en',  # defaults to 'en'
@@ -32,6 +31,10 @@ def fetch_reviews_to_csv(app_name, play_store_app_id, app_store_app_id, app_stor
     g_df2['language_code'] = 'en'
     g_df2['country_code'] = 'us'
 
+    export_file_name_play_store = export_file_name + "_play_store.csv"
+    g_df2.to_csv(export_file_name_play_store, mode='a', header=not os.path.exists(export_file_name_play_store))
+
+
     a_df = pd.DataFrame(np.array(a_reviews.reviews), columns=['review'])
     a_df2 = a_df.join(pd.DataFrame(a_df.pop('review').tolist()))
 
@@ -48,5 +51,6 @@ def fetch_reviews_to_csv(app_name, play_store_app_id, app_store_app_id, app_stor
                           'title': 'review_title', 'developerResponse': 'developer_response'}, inplace=True)
     a_df2 = a_df2.where(pd.notnull(a_df2), None)
 
-    result = pd.concat([g_df2, a_df2])
-    result.to_csv(export_file_name, mode='a', header=not os.path.exists(export_file_name))
+    # result = pd.concat([g_df2, a_df2])
+    export_file_name_app_store = export_file_name + "_app_store.csv"
+    a_df2.to_csv(export_file_name_app_store, mode='a', header=not os.path.exists(export_file_name_app_store))
