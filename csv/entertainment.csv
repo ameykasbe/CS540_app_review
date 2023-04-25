@@ -3,7 +3,7 @@ Netflix,com.netflix.mediaclient,363590051,com.netflix.Netflix
 Hulu,com.hulu.plus,376510438,com.hulu.iphone
 Disney+,com.disney.disneyplus,1446075923,com.disney.disneyplus
 Amazon Prime Video,com.amazon.avod.thirdpartyclient,545519333,com.amazon.avod
-Twitch,com.twitch.android.app,460177396,tv.twitch
+Twitch,tv.twitch.android.app,460177396,tv.twitch
 HBO Max,com.hbo.hbonow,971265422,com.hbo.hbonow
 Vudu,air.com.vudu.air.DownloaderTablet,487285735,com.nvidia.vuduapp
 Crunchyroll,com.crunchyroll.crunchyroid,329913454,com.crunchyroll.iphone
@@ -21,10 +21,10 @@ Tinder,com.tinder,547702041,com.cardify.tinder
 Grindr,com.grindrapp.android,319881193,com.grindrapp.ios
 Badoo,com.badoo.mobile,351331194,com.badoo.iphone
 Tubi,com.tubitv,886445756,com.tubitv.tubitv
-Shudder,com.shudder.shudderandroidapp,919710787,com.digitaldeviant.shudder
+Shudder,com.dramafever.shudder,919710787,com.digitaldeviant.shudder
 Sling TV,com.sling,945077360,com.sling.slingtv
 Viki,com.viki.android,445553058,com.viki.iphone
-Pluto TV,com.pluto.android,751365886,com.pluto.ios
+Pluto TV,tv.pluto.android,751365886,com.pluto.ios
 Freeform,com.disney.datg.videoplatforms.android.abcf,686000700,com.abcfamily.cloudvideo
 CBS,com.cbs.app,530168168,com.cbs.ios-app
 NBC,com.nbcuni.nbc,442839435,com.nbcuni.nbc.nbcapp
@@ -33,7 +33,7 @@ ABC,com.disney.datg.videoplatforms.android.abc,364191819,com.abcdigital.abcandro
 TNT,com.turner.tnt.android.networkapp,452774664,com.tnt.tnt
 HISTORY,com.aetn.history.watch,955009054,com.aetn.history.watch.ios
 Food Network,com.scripps.android.foodnetwork,398137746,com.foodnetwork.inapp
-HGTV,com.scripps.android.hgtv_google,966150,com.hgtv.hgtviphone
+HGTV,com.hgtv.watcher,966150,com.hgtv.hgtviphone
 Vimeo,com.vimeo.android.videoapp,425194759,com.vimeo.iphone
 Tidal,com.aspiro.tidal,913943275,com.aspiro.tidal
 Spotify,com.spotify.music,324684580,com.spotify.client
@@ -44,8 +44,5 @@ Audible,com.audible.application,379693831,com.audible.iphone
 Kindle,com.amazon.kindle,302584613,com.amazon.Lassen
 Wattpad,wp.wattpad,306310789,com.fivemobile.wattpad
 Webtoon,com.naver.linewebtoon,894546091,com.naver.linewebtoon.ios
-Manga Rock,com.notabasement.mangarock.android.lotus,1190600467,com.notabasement.mangarock.ios.lotus
-Comics,com.iconology.Comics,323634582,com.iconology.Comics
 Crackle,com.gotv.crackle.handset,377951542,com.gotv.crackle.ios
 HBO GO,eu.hbogo.android,429775439,com.hbo.hbogo
-Tubi Kids,com.tubitv.kids,1516586603,com.tubitv.tubikids.ios
