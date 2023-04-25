@@ -15,7 +15,7 @@ Fruit Ninja,com.halfbrick.fruitninjafree,403858572,com.halfbrick.fruitninja
 Hay Day,com.supercell.hayday,506627515,com.supercell.farm
 Words with Friends 2 - Word Game,com.zynga.words3,1196764367,com.zynga.WordsWithFriends2
 Solitaire,com.mobilityware.solitaire,561411089,com.mobilityware.Solitaire
-Bubble Shooter,com.bubbleshooter.classic,1436020109,com.hapoga.bubbleshooter
+Bubble Shooter,bubbleshooter.orig,1436020109,com.hapoga.bubbleshooter
 Gardenscapes,com.playrix.gardenscapes,1105855019,com.playrix.gardenscapes-appstore
 My Talking Tom,com.outfit7.mytalkingtomfree,657500465,com.outfit7.mytalkingtomfree.ios
 Homescapes,com.playrix.homescapes,1195621598,com.playrix.homescapes-appstore
@@ -26,7 +26,6 @@ Garena Free Fire,com.dts.freefireth,1300146617,com.dts.freefireth
 Geometry Dash Lite,com.robtopx.geometryjumplite,698255242,com.robtopx.GeometryJumpLite
 Temple Run,com.imangi.templerun,420009108,com.imangi.templerun
 Ludo King,com.ludo.king,993090598,in.ludo.king
-Bubble Pop!,com.narcade.happy.bubble,1314824687,com.narcade.bubblepop
 Brawl Stars,com.supercell.brawlstars,1229016807,com.supercell.brawlstars
 Shadow Fight 2,com.nekki.shadowfight,692772807,com.nekki.shadowfight2
 Sniper Fury: Top shooting game - FPS,com.gameloft.android.ANMP.GloftFWHM,1012835796,com.gameloft.SniperFury
@@ -41,11 +40,9 @@ Cooking Fever,com.nordcurrent.canteenhd,714796093,com.nordcurrent.canteenhd
 Block Puzzle,com.blockpuzzle.jewelgames,1050852432,com.block.puzzle.jewelgames
 Hill Climb Racing,com.fingersoft.hillclimb,564540143,com.fingersoft.hillclimb
 Dr. Driving,com.ansangha.drdriving,639087373,com.ansangha.drdriving
-Gardenscapes: New Acres,com.playrix.gardenscapes2,1105855019,com.playrix.gardenscapes2-appstore
-My Talking Tom 2,com.outfit7.mytalkingtom2free,1337578317,com.outfit7.mytalkingtom2free.ios
+My Talking Tom 2,com.outfit7.mytalkingtom2,1337578317,com.outfit7.mytalkingtom2free.ios
 Pool Billiards Pro,com.forthblue.pool,506682173,com.forthblue.poolios
-Color Road,com.bigframes.colorroad,1344740395,com.bigframes.colorroad
+Color Road,com.bigframes.color_road,1344740395,com.bigframes.colorroad
 Real Racing 3,com.ea.games.r3_row,556164008,com.ea.realracing3
-Sniper Shooter: Free Shooting Games - FPS,com.fps.shooter.sniper.killer,962227559,com.fps.shooter.sniper.killer
 PUBG MOBILE LITE,com.tencent.iglite,1451232235,com.tencent.iglite
 Drift Max Pro - Car Drifting Game,com.tiramisu.driftmax2,1263221773,com.tiramisu.driftmax2.ios
