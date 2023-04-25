@@ -19,13 +19,18 @@ with open(file) as csv_file:
         play_store_app_id = row[1]
         app_store_app_id = row[2]
         app_store_name = row[3]
-        number_of_reviews = 2000 # MUST BE Multiple of 20
-        fetch_reviews_to_csv(app_name = app_name,
-                                play_store_app_id = play_store_app_id, 
-                                app_store_app_id = app_store_app_id,
-                                app_store_name = app_store_name,
-                                number_of_reviews = number_of_reviews,
-                                export_file_name = file.name)
+        number_of_reviews = 10 # MUST BE Multiple of 20
+        try:
+            fetch_reviews_to_csv(app_name = app_name,
+                                    play_store_app_id = play_store_app_id, 
+                                    app_store_app_id = app_store_app_id,
+                                    app_store_name = app_store_name,
+                                    number_of_reviews = number_of_reviews,
+                                    export_file_name = file.name)
+        except Exception as e:
+            print("Error occured in app: ", app_name)
+            print(e)
+
 
         # play_store_app_id = "com.instagram.android"
         # app_store_app_id = "389801252"
