@@ -1,51 +1,51 @@
-app_name,google_play_store_id,ios_app_store_id
-Amazon Shopping,com.amazon.mShop.android.shopping,297606951
-Walmart Shopping & Grocery,com.walmart.android,338137227
-eBay: Buy, sell, and save money on home essentials, fashion, electronics, and more,com.ebay.mobile,282614216
-Target,com.target.ui,297430070
-Etsy: Buy Custom, Handmade, and Unique Goods,com.etsy.android,477128284
-Zara,com.inditex.zara,547951480
-AliExpress - Smarter Shopping, Better Living,com.alibaba.aliexpresshd,436672029
-Best Buy,com.bestbuy.android,335741791
-Nike,com.nike.omega,1095459556
-Macy's,com.macys.android,347687749
-Costco Wholesale,com.costco.android,535364791
-Wish - Shopping Made Fun,com.contextlogic.wish,530621395
-Forever 21 - The Latest Fashion & Clothing,com.rarewire.forever21,476038404
-Kohl's - Online Shopping Deals,com.kohls.mcommerce.portal,472014516
-ASOS,com.asos.app,457876088
-Sam's Club,com.rfi.sams.android,382316545
-Gap,com.gap.customerportal,304294518
-JCPenney,com.jcp,925808340
-Overstock - Home Decor, Furniture Shopping,com.overstock.android,365295642
-Old Navy,com.gap.oldersibling,366581644
-Wayfair - Shop All Things Home,com.wayfair.wayfair,926252009
-H&M - we love fashion,com.hm.goe,547952701
-The Home Depot,com.thehomedepot,342527639
-Lowe's,com.lowes.android,476768616
-Zulily: A new store every day,com.zulily.android,978221979
-Foot Locker: Sneakers, clothes & culture,com.footlocker.approved,930951711
-Carter's,com.carters.cartersapp,1164405736
-Bath & Body Works,com.bathandbodyworks.mainapp,1355456163
-QVC Mobile Shopping (US),com.qvc,431636974
-Lulus: Fashion Shopping,com.lulus.mobile,1348896219
-Groupon - Shop Deals, Discounts & Coupons,com.groupon,352683833
-SHEIN-Fashion Shopping Online,com.zzkko,878184989
-Sephora - Beauty Shopping,com.sephora,393051159
-The Children's Place,com.childrensplace.android,490544281
-JOANN - Shopping & Crafts,com.joann.foh,554246617
-Fingerhut Mobile,com.fingerhut.mobile,1247847243
-Crate & Barrel: Furniture, Home Decor, and more,com.crateandbarrel.crateandbarrel,335577177
-Rue La La - Shop Top Fashion,com.ruelala.RueLaLa,420776832
-HSN Phone Shop App,com.hsn.android.phone,874307067
-Bed Bath & Beyond: Home Essentials + Gift Registry,com.bedbathandbeyond.android,476966622
-Ulta Beauty: Shop Makeup, Skin, Hair & Perfume,com.ulta.android,991618079
-Hobby Lobby Stores, Inc.,com.hobbylobby.hobbylobbyapp,1082064832,514709611
-JOANN Crafts & Coupons,com.joannapp,1240968126,468568585
-Michaels Stores,com.michaels.mobile,1299262248,972811729
-Zales | The Diamond Store,com.zales.app,963694110,588030992
-DICK'S Sporting Goods, Fitness,com.dickssportinggoods.online,519470902,364622910
-Office Depot®- Rewards & Deals on Office Supplies,com.officedepot.mobileapp,456845669,438792551
-Poshmark - Buy & Sell Fashion,com.poshmark.app,534740975,470412147
-Staples - Shop, Delivery & Deals,com.staples.staples,331615551,376393873
-Vans,com.vans.iphoneapp,1085560699,392997602
+App Name,Google Play Store ID,iOS App Store ID,iOS Bundle Identifier
+Amazon,com.amazon.mShop.android.shopping,297606951,com.amazon.Amazon
+eBay,com.ebay.mobile,282614216,com.ebay.iphone
+AliExpress,com.alibaba.aliexpresshd,436672029,com.alibaba.iAliexpress
+Walmart,com.walmart.android,338137227,com.walmart.iphone
+Target,com.target.ui,297430070,com.target
+Macy's,com.macys.android,429927698,com.macys.iphone
+Zara,com.inditex.zara,547951480,com.inditex.Zara
+Nordstrom,com.nordstrom.app.android,474349412,com.nordstrom.mStorefront
+Best Buy,com.bestbuy.android,447188370,com.BestBuy.BBY
+Costco,com.costco.android,535509415,com.costco.CostcoMobile
+Lowe's,com.lowes.android,476339222,com.lowes.mobile
+Home Depot,com.homedepot,342527639,com.homedepot.consumer
+Etsy,com.etsy.android,477128284,com.etsy.etsyforios
+Zulily,com.zulily.android,509828678,com.zulily.iphoneapp
+Wayfair,com.wayfair.wayfair,926535946,com.wayfair.wayfair
+IKEA,com.ikea.mcommerce.bg,376388383,com.ikea.usa.ikeaapp
+Shopify,com.shopify.mobile,1221052339,com.shopify.ios
+Poshmark,com.poshmark.app,470412147,com.poshmark.app
+Wish,com.contextlogic.wish,530621395,com.contextlogic.Wish
+ASOS,com.asos.app,457876088,com.asos.asosapp
+Kohl's,com.kohls.mcommerce.opal,472014516,com.kohls.CC
+The RealReal,com.therealreal.trr,587836815,com.therealreal.ios
+Crate & Barrel,com.crateandbarrel.mobile,497946340,com.crateandbarrel.crate
+Sephora,com.sephora,393051353,com.sephora.Sephora
+Ulta,com.ulta.mobileapp,491119828,com.ulta.BeautyFinder
+CVS Pharmacy,com.cvs.launchers.cvs,499619944,com.cvs.CVSPharmacy
+Walgreens,com.walgreens,3318,com.walgreens.Walgreens
+Safeway,com.safeway.client.android.safeway,427378522,com.safeway.client.safeway
+Instacart,com.instacart.client,545599256,com.mobiledevhq.sfl
+DoorDash,com.dd.doordash,719972451,com.dd.doordash
+Grubhub,com.grubhub.Seamless,302920553,com.grubhub.Seamless
+Postmates,com.postmates.android,512393983,com.postmates.ios
+Uber Eats,com.ubercab.eats,1058959277,com.ubercab.UberEATS
+Adidas,com.adidas.app,347791327,com.adidas.Confirmed
+Nike,com.nike.omega,1091193272,com.nike.commerce.nikedotcom
+Under Armour,com.ua.shop,1048157523,com.underarmour.shop
+Foot Locker,com.footlocker.approved,416340923,com.footlocker.footlocker
+Sneakersnstuff,com.sneakersnstuff.sns,1401099862,com.sneakersnstuff.sns
+Supreme,com.supremenewyork.supreme,1123460973,com.supremenewyork.supreme
+GOAT,com.flightclub.footwear,966758561,com.flightclub.goat
+StockX,com.stockx.stockx,1280591555,com.stockx.StockX
+Barnes & Noble,com.bn.nook.reader,364855644,com.bn.nook.reader
+The Home Shopping Network,com.hsn.hsnandroid,484851937,com.hsn.hsnapp
+QVC,com.qvc,328383773,com.qvc.QVC-for-iPad
+Zappos,com.zappos.android,672515678,com.zappos.Zappos
+Big Cartel,com.bigcartel.merchboss,425588307,com.bigcartel.bigcartel-ios
+Farfetch,com.farfetch.farfetchlite,1096843910,com.farfetch.ios
+Reebok,com.reebok.reebokapp,1293122637,com.reebok.international
+Mango,com.mango.OnlineShop,327948678,com.mango.mangoapp
+Bonanza,com.bonanza.android,1081122279,com.bonanza.mobile

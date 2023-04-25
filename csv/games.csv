@@ -1,51 +1,51 @@
-app_name,google_play_store_id,ios_app_store_id
-Candy Crush Saga,com.king.candycrushsaga,553834731
-Subway Surfers,com.kiloo.subwaysurf,512939461
-Clash of Clans,com.supercell.clashofclans,529479190
-Garena Free Fire,com.dts.freefireth,1300146617
-PUBG Mobile,com.tencent.ig,1330123889
-Temple Run 2,com.imangi.templerun2,572395608
-Candy Crush Soda Saga,com.king.candycrushsodasaga,850417475
-My Talking Tom,com.outfit7.mytalkingtomfree,657500465
-8 Ball Pool,com.miniclip.eightballpool,543186831
-Asphalt 8: Airborne,com.gameloft.android.ANMP.GloftA8HM,610391947
-Hill Climb Racing,com.fingersoft.hillclimb,564540143
-Gardenscapes,com.playrix.gardenscapes,1105855019
-ROBLOX,com.roblox.client,431946152
-My Talking Angela,com.outfit7.mytalkingangelafree,909351158
-Candy Crush Friends Saga,com.king.candycrush4,1225867730
-Pou,me.pou.app,575154654
-Clash Royale,com.supercell.clashroyale,1053012308
-Brawl Stars,com.supercell.brawlstars,1229016807
-Homescapes,com.playrix.homescapes,1195621598
-Sonic Dash,com.sega.sonicdash,582654048
-Bubble Shooter,com.bubbleshooter.bubbleshooterclassic,1197597297
-Toy Blast,net.peakgames.amy,890378044
-Coin Master,com.moonactive.coinmaster,406889139
-Minecraft,com.mojang.minecraftpe,479516143
-Angry Birds 2,com.rovio.baba,880047117
-Sniper 3D Assassin,com.fungames.sniper3d,989889408
-Temple Run,com.imangi.templerun,420009108
-Zombie Tsunami,net.mobigame.zombietsunami,529652920
-Block Puzzle,com.block.puzzle.free.game,1176022928
-Fruit Ninja,com.halfbrick.fruitninjafree,403858572
-Ludo King,com.ludo.king,993090598
-Hay Day,com.supercell.hayday,506627515
-Bubble Shooter Classic,com.bubbleshooterclassic.bubbleshooter,1167247399
-Fishdom,com.playrix.fishdomdd.gplay,664575829
-Talking Tom Gold Run,com.outfit7.talkingtomgoldrun,1089336976
-Solitaire,com.mobilityware.solitaire,422667065
-Temple Run Oz,com.disney.TempleRunOz.goo,595831562
-Jetpack Joyride,com.halfbrick.jetpackjoyride,457446957
-Zynga Poker,com.zynga.livepoker,354690826
-World Cricket Championship 2,com.nextwave.wcc2,1022163018
-FIFA Soccer,com.ea.gp.fifamobile,1094930513
-Sniper 3D Gun Shooter,com.fungames.sniper3d,1474960098
-Hill Climb Racing 2,com.fingersoft.hcr2,1146462133
-Robbery Bob,com.chillingo.robberybobfree.android.row,515428514
-Plants vs Zombies 2,com.ea.game.pvz2_row,597986893
-My Talking Hank,com.outfit7.mytalkinghankfree,1194062295
-Talking Tom Cat,com.outfit7.talkingtom,377194688
-Gangstar Vegas,com.gameloft.android.ANMP.GloftGGHM,571393580
-Fruit Cutter,com.toy.fruit.cutter,1441017894
-Score! Hero,com.firsttouchgames.story,847492970
+App Name,Google Play Store ID,iOS App Store ID,iOS Bundle Identifier
+Candy Crush Saga,com.king.candycrushsaga,553834731,com.midasplayer.apps.candycrushsaga
+Subway Surfers,com.kiloo.subwaysurf,512939461,com.kiloo.subwaysurf
+Temple Run 2,com.imangi.templerun2,572395608,com.imangi.templerun2
+Angry Birds 2,com.rovio.baba,880047117,com.rovio.AB2
+Clash of Clans,com.supercell.clashofclans,529479190,com.supercell.magic
+PUBG Mobile,com.tencent.ig,1330123889,com.tencent.ig
+Call of Duty: Mobile,com.activision.callofduty.shooter,1287282214,com.activision.callofduty.mobile
+Fortnite,com.epicgames.fortnite,1261357853,com.epicgames.fortnite
+Minecraft,com.mojang.minecraftpe,479516143,com.mojang.minecraftpe
+Roblox,com.roblox.client,431946152,com.roblox.robloxmobile
+8 Ball Pool,com.miniclip.eightballpool,543186831,com.miniclip.8ballpool
+Asphalt 8: Airborne,com.gameloft.android.ANMP.GloftA8HM,610391947,com.gameloft.Asphalt8
+Fruit Ninja,com.halfbrick.fruitninjafree,403858572,com.halfbrick.fruitninja
+Hay Day,com.supercell.hayday,506627515,com.supercell.farm
+Words with Friends 2 - Word Game,com.zynga.words3,1196764367,com.zynga.WordsWithFriends2
+Solitaire,com.mobilityware.solitaire,561411089,com.mobilityware.Solitaire
+Bubble Shooter,com.bubbleshooter.classic,1436020109,com.hapoga.bubbleshooter
+Gardenscapes,com.playrix.gardenscapes,1105855019,com.playrix.gardenscapes-appstore
+My Talking Tom,com.outfit7.mytalkingtomfree,657500465,com.outfit7.mytalkingtomfree.ios
+Homescapes,com.playrix.homescapes,1195621598,com.playrix.homescapes-appstore
+Piano Tiles 2,com.cmplay.tiles2,1027688889,com.cmplay.tiles2
+Zynga Poker - Texas Holdem,com.zynga.livepoker,354902315,com.zynga.poker.ios
+Bubble Witch 3 Saga,com.king.bubblewitch3,1095254853,com.midasplayer.apps.bubblewitch3saga
+Garena Free Fire,com.dts.freefireth,1300146617,com.dts.freefireth
+Geometry Dash Lite,com.robtopx.geometryjumplite,698255242,com.robtopx.GeometryJumpLite
+Temple Run,com.imangi.templerun,420009108,com.imangi.templerun
+Ludo King,com.ludo.king,993090598,in.ludo.king
+Bubble Pop!,com.narcade.happy.bubble,1314824687,com.narcade.bubblepop
+Brawl Stars,com.supercell.brawlstars,1229016807,com.supercell.brawlstars
+Shadow Fight 2,com.nekki.shadowfight,692772807,com.nekki.shadowfight2
+Sniper Fury: Top shooting game - FPS,com.gameloft.android.ANMP.GloftFWHM,1012835796,com.gameloft.SniperFury
+My Talking Angela,com.outfit7.mytalkingangelafree,909351158,com.outfit7.mytalkingangelafree.ios
+Score! Hero,com.firsttouchgames.story,847492141,com.firsttouch.story
+FIFA Soccer,com.ea.gp.fifamobile,1094930513,com.ea.fifamobile
+Robbery Bob,com.chillingo.robberybobfree.android.row,542308609,com.chillingo.robberybobfree.ios.universal
+Dream League Soccer 2021,com.firsttouchgames.dls7,1545999176,com.firsttouchgames.dls7
+Zombie Tsunami,net.mobigame.zombietsunami,529652920,net.mobigame.zombietsunami
+Hungry Shark Evolution,com.fgol.HungrySharkEvolution,535500008,com.fgol.HungrySharkEvolution
+Cooking Fever,com.nordcurrent.canteenhd,714796093,com.nordcurrent.canteenhd
+Block Puzzle,com.blockpuzzle.jewelgames,1050852432,com.block.puzzle.jewelgames
+Hill Climb Racing,com.fingersoft.hillclimb,564540143,com.fingersoft.hillclimb
+Dr. Driving,com.ansangha.drdriving,639087373,com.ansangha.drdriving
+Gardenscapes: New Acres,com.playrix.gardenscapes2,1105855019,com.playrix.gardenscapes2-appstore
+My Talking Tom 2,com.outfit7.mytalkingtom2free,1337578317,com.outfit7.mytalkingtom2free.ios
+Pool Billiards Pro,com.forthblue.pool,506682173,com.forthblue.poolios
+Color Road,com.bigframes.colorroad,1344740395,com.bigframes.colorroad
+Real Racing 3,com.ea.games.r3_row,556164008,com.ea.realracing3
+Sniper Shooter: Free Shooting Games - FPS,com.fps.shooter.sniper.killer,962227559,com.fps.shooter.sniper.killer
+PUBG MOBILE LITE,com.tencent.iglite,1451232235,com.tencent.iglite
+Drift Max Pro - Car Drifting Game,com.tiramisu.driftmax2,1263221773,com.tiramisu.driftmax2.ios

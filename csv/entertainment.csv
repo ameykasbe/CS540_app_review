@@ -1,51 +1,51 @@
-app_name,google_play_store_id,ios_app_store_id
-TikTok,com.zhiliaoapp.musically,1235601864
-Netflix,com.netflix.mediaclient,363590051
-HBO Max,com.hbo.hbonow,971265422
-Hulu,com.hulu.plus,376510438
-Amazon Prime Video,com.amazon.avod.thirdpartyclient,545519333
-Tubi,com.tubitv,886445756
-Viki,com.viki.android,445553058
-Crunchyroll,com.crunchyroll.crunchyroid,329913454
-Twitch,com.twitch.tv,460177396
-Disney+,com.disney.disneyplus,1446075923
-YouTube,com.google.android.youtube,544007664
-Spotify,com.spotify.music,324684580
-Pandora,com.pandora.android,284035177
-SoundCloud,com.soundcloud.android,336353151
-Tidal,com.aspiro.tidal,913943275
-Deezer,deezer.android.app,292738169
-iHeartRadio,com.clearchannel.iheartradio.controller,290638154
-Shazam,com.shazam.android,284993459
-TuneIn Radio,com.tunein.player,418987775
-SiriusXM,com.sirius,317951436
-Radio FM,com.radio.fmradio,714665068
-Stitcher,com.stitcher.app,288087905
-Podcasts,com.apple.podcasts,525463029
-Audiobooks.com,com.audiobooks.androidapp,595693665
-Audible,com.audible.application,379693831
-Kindle,com.amazon.kindle,302584613
-Wattpad,wp.wattpad,306310789
-Google Play Books,com.google.android.apps.books,400989007
-Goodreads,com.goodreads,355833469
-IMDb Movies & TV,com.imdb.mobile,342792525
-Roku,com.roku.remote,482066631
-VLC,org.videolan.vlc,650377962
-MX Player,com.mxtech.videoplayer.ad,405302691
-Kodi,org.xbmc.kodi,696302350
-BSPlayer,com.bsplayer.bspandroid.free,366372574
-VLC Remote,org.pocketwit.vlcremote,286994029
-Dice,com.razumcorp.dice,1140364158
-Magic 8-ball,com.magmamobile.game.magic8ball,332310917
-Tarot,com.qsoft.cards.tarot,331300341
-Horoscope,com.daily.horoscope,1055368333
-Netflix Party,com.netflix.npandroid,1460351456
-Popcornflix,com.curiousbrain.popcornflix,493605531
-Pluto TV,com.pluto.android,745026719
-Crackle,com.gotv.crackle.handset,377951542
-Tubi TV,com.tubitv,886445756
-Popcorn Time,com.popcorntime,1124488469
-Yidio,com.yidio.androidapp,946930499
-FandangoNOW,com.mgo.application,1055572008
-Google Play Movies & TV,com.google.android.videos,746498890
-Sling TV,com.sling,945077360
+App Name,Google Play Store ID,iOS App Store ID,iOS Bundle Identifier
+Netflix,com.netflix.mediaclient,363590051,com.netflix.Netflix
+Hulu,com.hulu.plus,376510438,com.hulu.iphone
+Disney+,com.disney.disneyplus,1446075923,com.disney.disneyplus
+Amazon Prime Video,com.amazon.avod.thirdpartyclient,545519333,com.amazon.avod
+Twitch,com.twitch.android.app,460177396,tv.twitch
+HBO Max,com.hbo.hbonow,971265422,com.hbo.hbonow
+Vudu,air.com.vudu.air.DownloaderTablet,487285735,com.nvidia.vuduapp
+Crunchyroll,com.crunchyroll.crunchyroid,329913454,com.crunchyroll.iphone
+IMDb,com.imdb.mobile,342792525,com.imdb.imdb
+YouTube,com.google.android.youtube,544007664,com.google.ios.youtube
+TikTok,com.zhiliaoapp.musically,1235601864,com.zhiliaoapp.musically.ios
+Snapchat,com.snapchat.android,447188370,com.snapchat.client
+Facebook,com.facebook.katana,284882215,com.facebook.Facebook
+Twitter,com.twitter.android,333903271,com.atebits.Tweetie2
+Instagram,com.instagram.android,389801252,com.burbn.instagram
+Pinterest,com.pinterest,429047995,com.pinterest
+Reddit,com.reddit.frontpage,1064216828,com.reddit.Reddit
+Discord,com.discord,985746746,com.hammerandchisel.discord
+Tinder,com.tinder,547702041,com.cardify.tinder
+Grindr,com.grindrapp.android,319881193,com.grindrapp.ios
+Badoo,com.badoo.mobile,351331194,com.badoo.iphone
+Tubi,com.tubitv,886445756,com.tubitv.tubitv
+Shudder,com.shudder.shudderandroidapp,919710787,com.digitaldeviant.shudder
+Sling TV,com.sling,945077360,com.sling.slingtv
+Viki,com.viki.android,445553058,com.viki.iphone
+Pluto TV,com.pluto.android,751365886,com.pluto.ios
+Freeform,com.disney.datg.videoplatforms.android.abcf,686000700,com.abcfamily.cloudvideo
+CBS,com.cbs.app,530168168,com.cbs.ios-app
+NBC,com.nbcuni.nbc,442839435,com.nbcuni.nbc.nbcapp
+FOX,com.fox.now,571096102,com.fox.now
+ABC,com.disney.datg.videoplatforms.android.abc,364191819,com.abcdigital.abcandroid
+TNT,com.turner.tnt.android.networkapp,452774664,com.tnt.tnt
+HISTORY,com.aetn.history.watch,955009054,com.aetn.history.watch.ios
+Food Network,com.scripps.android.foodnetwork,398137746,com.foodnetwork.inapp
+HGTV,com.scripps.android.hgtv_google,966150
+Vimeo,com.vimeo.android.videoapp,425194759,com.vimeo.iphone
+Tidal,com.aspiro.tidal,913943275,com.aspiro.tidal
+Spotify,com.spotify.music,324684580,com.spotify.client
+Pandora,com.pandora.android,284035177,com.pandora
+iHeartRadio,com.clearchannel.iheartradio.controller,290638154,com.clearchannel.iheartradio
+SiriusXM,com.sirius,317951436,com.siriusxm.siriusxm
+Audible,com.audible.application,379693831,com.audible.iphone
+Kindle,com.amazon.kindle,302584613,com.amazon.Lassen
+Wattpad,wp.wattpad,306310789,com.fivemobile.wattpad
+Webtoon,com.naver.linewebtoon,894546091,com.naver.linewebtoon.ios
+Manga Rock,com.notabasement.mangarock.android.lotus,1190600467,com.notabasement.mangarock.ios.lotus
+Comics,com.iconology.Comics,323634582,com.iconology.Comics
+Crackle,com.gotv.crackle.handset,377951542,com.gotv.crackle.ios
+HBO GO,eu.hbogo.android,429775439,com.hbo.hbogo
+Tubi Kids,com.tubitv.kids,1516586603,com.tubitv.tubikids.ios

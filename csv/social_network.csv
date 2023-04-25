@@ -1,51 +1,51 @@
-app_name,google_play_store_id,ios_app_store_id
-Facebook,com.facebook.katana,284882215
-Instagram,com.instagram.android,389801252
-Twitter,com.twitter.android,333903271
-Snapchat,com.snapchat.android,447188370
-TikTok,com.zhiliaoapp.musically,1235601864
-Pinterest,com.pinterest,429047995
-LinkedIn,com.linkedin.android,288429040
-Reddit,com.reddit.frontpage,1064216828
-Tumblr,com.tumblr,305343404
-Badoo,com.badoo.mobile,351331194
-MeetMe,com.myyearbook.m,372648912
-Skout,com.skout.android,302324249
-Tagged,com.taggedapp,504738421
-LOVOO,net.lovoo.android,445338486
-Bumble,com.bumble.app,930441707
-Hinge,co.hinge.app,595287172
-OkCupid,com.okcupid.okcupid,338701294
-Zoosk,com.zoosk.zoosk,349160522
-Plenty of Fish,com.pof.android,389638243
-Match,com.match.android.matchmobile,305939712
-Blendr,mobile.blendr,482970215
-Jaumo,com.jaumo,522705747
-Grindr,com.grindrapp.android,319881193
-HER,com.weareher.her,1042814349
-WooPlus,com.mason.wooplus,758205884
-Happn,com.ftw_and_co.happn,489185828
-Tantan,com.p1.mobile.putong,982890106
-Hily,com.hily.app,1502060908
-Meetup,com.meetup,375990038
-Nextdoor,com.nextdoor,640360962
-Caffeine,com.caffeine.tv,1294829708
-VK,com.vkontakte.android,564177498
-Telegram,org.telegram.messenger,686449807
-Discord,com.discord,985746746
-Band,com.nhn.android.band,542613198
-WeChat,com.tencent.mm,414478124
-WhatsApp,com.whatsapp,310633997
-Messenger,com.facebook.orca,454638411
-Viber,com.viber.voip,382617920
-LINE,jp.naver.line.android,443904275
-KakaoTalk,com.kakao.talk,362057947
-Signal,org.thoughtcrime.securesms,874139669
-Wire,com.wire,930441707
-Threema,ch.threema.app,578665578
-Marco Polo,co.happybits.marcopolo,912561374
-Google Duo,com.google.android.apps.tachyon,1096918571
-Houseparty,com.herzick.houseparty,1065781769
-Zoom,us.zoom.videomeetings,546505307
-Mamba,ru.mamba.client,398601480
-Weibo,com.sina.weibo,329384032
+App Name,Google Play Store ID,iOS App Store ID,iOS Bundle Identifier
+Facebook,com.facebook.katana,284882215,com.facebook.Facebook
+Instagram,com.instagram.android,389801252,com.burbn.instagram
+Twitter,com.twitter.android,333903271,com.twitter.android
+Snapchat,com.snapchat.android,447188370,com.snapchat.android
+WhatsApp Messenger,com.whatsapp,310633997,net.whatsapp.WhatsApp
+Telegram,org.telegram.messenger,686449807,org.telegram.messenger
+LinkedIn,com.linkedin.android,288429040,com.linkedin.LinkedIn
+Viber Messenger,com.viber.voip,382617920,com.viber.voip
+TikTok,com.zhiliaoapp.musically,835599320,com.zhiliaoapp.musically
+WeChat,com.tencent.mm,414478124,com.tencent.xin
+Messenger – Text and Video Chat for Free,com.facebook.orca,454638411,com.facebook.Messenger
+Pinterest,com.pinterest,429047995,com.pinterest
+VK — live chatting & free calls,com.vkontakte.android,564177498,com.vk.client
+Discord - Talk, Video Chat & Hang Out with Friends,com.discord,985746746,com.hammerandchisel.discord
+Tumblr,com.tumblr,305343404,com.tumblr
+LINE: Free Calls & Messages,jp.naver.line.android,443904275,jp.naver.line
+Badoo — Dating App to Chat, Date & Meet New People,com.badoo.mobile,351331194,com.badoo.mobile
+Google Duo - High Quality Video Calls,com.google.android.apps.tachyon,1096918571,com.google.HangoutsDialer
+Skype - free IM & video calls,com.skype.raider,304878510,com.skype.skype
+Grindr - Gay chat,com.grindrapp.android,319881193,com.grindrapp.Grindr
+Houseparty,com.herzick.houseparty,1065781769,com.herzick.houseparty
+Signal Private Messenger,org.thoughtcrime.securesms,874139669,org.whispersystems.signalservice
+Weibo International Edition,com.weico.international,558261612,com.weico.international
+OK,com.ok.android,417281773,ru.ok.android
+Likee - Let You Shine,video.like,1378542183,video.like
+Reddit,com.reddit.frontpage,1064216828,com.reddit.Reddit
+KakaoTalk: Free Calls & Text,com.kakao.talk,362057947,com.kakao.talk
+Tango - Live Video Broadcasts and Streaming Chats,com.sgiggle.production,372513032,com.sgiggle.production
+ooVoo Video Calls, Messaging & Stories,com.oovoo,789852551,com.oovoo
+ooVoo Video Calls, Messaging & Stories,com.oovoo,789852551,com.oovoo
+LinkedIn: Jobs, Business News & Social Networking,com.linkedin.jobs.jobsearch,1455363857,com.linkedin.LinkedIn
+Medium,com.medium.reader,828256236,com.medium.reader
+Tidal Music - Hifi Songs, Playlists, & Videos,com.aspiro.tidal,913943275,no information
+Yubo: Stream live with friends,Yubo.social,yubo-ios,com.twelveapp
+MICO Chat: New Friends Banaen aur Live Chat Karen,MICO World Limited,Mico Chat,com.mico
+Badoo — The Dating App to Chat, Date & Meet People,badoo.mobile,301716247,badoo.mobile
+InMessage - Chat, Meet, Dating, Tap Genius Inc.,inmessage,com.futurebits.instamessage
+Caffeine: Live streaming,Caffeine Inc.,caffeine.tv,com.caffeine.app
+Jaumo Dating App – Flirt. Chat. Date. Your way to Love,Jaumo,jaumo,com.jaumo
+LiveMe - Video chat, new friends, and make money,Live.me Inc.,liveme,com.cmcm.liveme
+Wakie Voice Chat - Talk to Strangers,wakie.app,451392904,wakie.app
+B-Messenger Video Chat, Intersmart Development,b-messenger,com.bmessenger
+hi5 - meet, chat & flirt,The Meet Group,hi5.app,com.hi5.app
+SLOWLY - Connect to the World!,Slowly Communications Ltd.,slowly,com.slowlyapp.slowly
+Blendr - Chat, Flirt & Meet,Blendr,blendr,com.badoo.blendr
+PINK dating app,PINK GmbH,pink.app,com.mosaiqo.pink
+Fiesta by Tango - Meet People,Tango, Inc,fiesta,com.sgiggle.mango
+Meecha - Meet People Nearby,Chat,Live, Joyride,Beijing Free Gate Technology Limited,meecha,com.meecha.app
+Yalla - Free Voice Chat Rooms,Yalla Technology FZ-LLC,yalla,com.fotofeed.yalla
+AHA Live Random Video Chat,AMAZING LTD,aha,com.aiha.live

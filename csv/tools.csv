@@ -1,51 +1,51 @@
-app_name,google_play_store_id,ios_app_store_id
-Microsoft Word,com.microsoft.office.word,586447913
-Microsoft Excel,com.microsoft.office.excel,586683407
-Microsoft PowerPoint,com.microsoft.office.powerpoint,586449534
-Microsoft OneDrive,com.microsoft.skydrive,477537958
-WPS Office - Free Office Suite for Word,PDF,Excel,com.wps.office,762263023
-Adobe Acrobat Reader: PDF Viewer, Editor & Creator,com.adobe.reader,469337564
-Dropbox: Cloud Storage to Backup, Sync, File Share,com.dropbox.android,327630330
-Google Drive,com.google.android.apps.docs,507874739
-Evernote - Notes Organizer & Daily Planner,com.evernote,281796108
-Todoist: To-Do List, Tasks & Reminders,com.todoist,572688855
-Google Keep - Notes and Lists,com.google.android.keep,1029207872
-Notion - Notes, Tasks, Wikis,notion.id,1232780292
-Trello: Organize anything with anyone,com.trello,461504587
-Asana: Your work manager,com.asana.app,489969512
-Grammarly - Keyboard & Editor,com.grammarly.android.keyboard,1158877342
-Google Calendar,com.google.android.calendar,909319292
-Microsoft To Do: List, Task & Reminder,microsoft.to-do,1212616790
-CamScanner - Scanner to scan PDF,intsig.camscanner,388627783
-Zoom for Intune,com.zoom.videomeetings,546505307
-Zoom Cloud Meetings,us.zoom.videomeetings,546505307
-ZOOM Cloud Meetings,us.zoom.videomeetings,546505307
-ZOOM Cloud Meetings,us.zoom.videomeetings,546505307
-Google Meet - Secure Video Meetings,com.google.android.apps.meetings,1013231476
-Google Docs,com.google.android.apps.docs.editors.docs,842842640
-Google Sheets,com.google.android.apps.docs.editors.sheets,842849113
-Google Slides,com.google.android.apps.docs.editors.slides,1010905941
-Adobe Scan: PDF Scanner with OCR,com.adobe.scan.android,1199564834
-Google Assistant - Get things done, hands-free,com.google.android.apps.googleassistant,1220971806
-Google Tasks: Any Task, Any Goal. Get Things Done,com.google.android.apps.tasks,1353634009
-Gmail,com.google.android.gm,422689480
-BlueMail - Email Mailbox,bluemail.mail,1063729305
-Google Chrome: Fast & Secure,com.android.chrome,535886823
-Firefox Browser: fast, private & safe web browser,org.mozilla.firefox,989804926
-Edge: Browser and Office on the go,microsoft.emmx,1288723196
-Google Authenticator,com.google.android.apps.authenticator2,388497605
-LastPass Password Manager,lastpass.lpandroid,324613447
-Microsoft OneNote: Save Ideas and Organize Notes,com.microsoft.office.onenote,410395246
-Zapier,com.zapier.android,1231961864
-Apple Pages,com.apple.Pages,361309726
-Apple Keynote,com.apple.Keynote,361285480
-Apple Numbers,com.apple.Numbers,361304891
-OmniFocus 3,com.omnigroup.OmniFocus3
-Todo - The Powerful To-Do List,com.appgenix.bizcal,455477962
-Slack,com.Slack,618783545
-Any.do: To do list, Reminders, Planner & Calendar,com.anydo,497328576
-Google Translate,com.google.android.apps.translate,414706506
-Discord - Talk, Video Chat & Hang Out with Friends,com.discord,985746746
-RescueTime Time Management,com.rescuetime.android,564838613
-TeamViewer for Remote Control,com.teamviewer.teamviewer.market.mobile,692035811
-Forest - Stay focused, be present,com.forestapp,866450515
+App Name,Google Play Store ID,iOS App Store ID,iOS Bundle Identifier
+Adobe Acrobat Reader,com.adobe.reader,469337564,com.adobe.Adobe-Reader
+AirDroid,com.sand.airdroid,946405984,com.sand.airdroid
+AppLock,com.domobile.applock,981066721,com.domobile.applock
+AVG Cleaner,com.avg.cleaner,1017714454,com.avg.cleaner
+CamScanner,com.intsig.camscanner,388627783,com.intsig.camscanner
+CCleaner,com.piriform.ccleaner,646445992,com.piriform.ccleanerios
+Clean Master,com.cleanmaster.mguard,655502610,com.ksc.cleaner
+Dropbox,com.dropbox.android,327630330,com.getdropbox.Dropbox
+ES File Explorer,com.estrongs.android.pop,281796108,com.estrongs.iphone
+Evernote,com.evernote,281796108,com.evernote.iPhone.Evernote
+Google Drive,com.google.android.apps.docs,507874739,com.google.Drive
+Google Translate,com.google.android.apps.translate,414706506,com.google.Translate
+Grammarly,com.grammarly.android,1158877342,com.grammarly.grammarly
+IFTTT,com.ifttt.ifttt,660944635,com.ifttt.ifttt.ifttt
+LastPass,com.lastpass.lpandroid,324613447,com.lastpass.ilastpass
+Microsoft Excel,com.microsoft.office.excel,586683407,com.microsoft.Office.Excel
+Microsoft PowerPoint,com.microsoft.office.powerpoint,586449534,com.microsoft.Office.Powerpoint
+Microsoft Word,com.microsoft.office.word,586447913,com.microsoft.Office.Word
+MyFitnessPal,com.myfitnesspal.android,341232718,com.myfitnesspal.MyFitnessPal
+Notion,notion.id,1232780281,notion.id
+Nova Launcher,com.teslacoilsw.launcher,1291438553,com.teslacoilsw.launcher
+OfficeSuite,com.mobisystems.office,366364109,com.mobisystems.OfficeSuite
+Outlook,com.microsoft.office.outlook,951937596,com.microsoft.Office.Outlook
+PDF Extra,com.mobisystems.office.pdfeditor,1175540289,com.mobisystems.PDFExtra
+PicsArt,com.picsart.studio,587366035,com.picsart.PicsArt-Studio
+Pocket,com.ideashower.readitlater.pro,309601447,com.ideashower.ReadItLaterPro
+QR Code Reader,com.qrcodescanner.barcodescanner,381698089,com.qrcodescanner.QRCodeReader
+QuickBooks,com.intuit.quickbooks,584606479,com.intuit.quickbooks
+QuickPic,com.alensw.PicFolder,720906663,com.alensw.PicFolder-iOS
+RAR,com.rarlab.rar,1131357112,com.rarlab.RAR-iOS
+Shazam,com.shazam.android,284993459,com.shazam.Shazam
+Slack,com.Slack,618783545,com.tinyspeck.chatlyio
+Photo Editor Pro,com.zentertain.photoeditor,1050214552,com.zentertain.PhotoEditorPro
+Flashlight & LED Torch,com.peacock.flashlight,474473231,com.smalltech.ledflashlight.free
+QR Code Reader,me.scan.android.client,1116905928,com.scan.qr.code.reader
+Calculator,com.google.android.calculator,1426844542,com.apple.calculator
+Google Translate,com.google.android.apps.translate,414706506,com.google.Translate
+File Manager,com.alphainventor.filemanager,1139850441,com.skyjos.apps.fileexplorer
+RAR,com.rarlab.rar,535886823,com.rarlab.rar
+ColorNote Notepad Notes,com.socialnmobile.dictapps.notepad.color.note,491854541,com.socialnmobile.colornote
+SHAREit,com.lenovo.anyshare.gps,725215120,com.anyshare.cordova
+Security Master,com.cleanmaster.security,1063790693,com.cleanmaster.security.free
+All-In-One Toolbox,imoblife.toolbox.full,525427203,com.imoblife.toolbox.full
+Google Drive,com.google.android.apps.docs,507874739,com.google.Drive
+Poweramp Music Player,com.maxmpz.audioplayer,1144502520,com.maxmpz.audioplayer
+Speedtest by Ookla,org.zwanoo.android.speedtest,300704847,com.ookla.speedtest
+Samsung Smart Switch Mobile,com.sec.android.easyMover,935972730,com.samsung.smartswitch
+MX Player,com.mxtech.videoplayer.ad,405204959,com.mxtech.videoplayer.ad
+Google Keep,com.google.android.keep,1029207872,com.google.Keep
+Avast Antivirus,com.avast.android.mobilesecurity,580486840,com.avast.ios.mobilesecurity
