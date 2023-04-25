@@ -9,7 +9,7 @@ children = path.glob('**/*')
 file_paths = [file for file in children if file.is_file() and ".csv" in file.name] # All csv files
 
 
-file = pathlib.Path(__file__).parent / 'csv' / 'social_network.csv'
+file = pathlib.Path(__file__).parent / 'csv' / 'tools.csv'
 header_skipped = False
 with open(file) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
@@ -19,7 +19,7 @@ with open(file) as csv_file:
         play_store_app_id = row[1]
         app_store_app_id = row[2]
         app_store_name = row[3]
-        number_of_reviews = 1 # MUST BE Multiple of 20
+        number_of_reviews = 200 # MUST BE Multiple of 20
         try:
             fetch_reviews_to_csv(app_name = app_name,
                                     play_store_app_id = play_store_app_id, 
