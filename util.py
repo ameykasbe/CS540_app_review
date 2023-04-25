@@ -3,9 +3,10 @@ import numpy as np
 import pandas as pd
 from app_store_scraper import AppStore
 from google_play_scraper import Sort, reviews
+import os
 
-
-def fetch_reviews_to_csv(play_store_app_id, app_store_app_id, app_store_name, number_of_reviews, export_file_name):
+def fetch_reviews_to_csv(app_name, play_store_app_id, app_store_app_id, app_store_name, number_of_reviews, export_file_name):
+    number_of_reviews = 10
     g_reviews, _ = reviews(
         play_store_app_id,
         lang='en',  # defaults to 'en'
@@ -26,6 +27,7 @@ def fetch_reviews_to_csv(play_store_app_id, app_store_app_id, app_store_name, nu
                           'at': 'review_date', 'replyContent': 'developer_response', 'repliedAt': 'developer_response_date',
                           'thumbsUpCount': 'thumbs_up'}, inplace=True)
     g_df2.insert(loc=0, column='source', value='Google Play')
+    g_df2.insert(loc=0, column='appName', value=app_name)
     g_df2.insert(loc=3, column='review_title', value=None)
     g_df2['language_code'] = 'en'
     g_df2['country_code'] = 'us'
@@ -35,6 +37,7 @@ def fetch_reviews_to_csv(play_store_app_id, app_store_app_id, app_store_name, nu
 
     a_df2.drop(columns={'isEdited'}, inplace=True)
     a_df2.insert(loc=0, column='source', value='App Store')
+    a_df2.insert(loc=0, column='appName', value=app_name)
     a_df2['developer_response_date'] = None
     a_df2['thumbs_up'] = None
     a_df2['laguage_code'] = 'en'
@@ -46,4 +49,4 @@ def fetch_reviews_to_csv(play_store_app_id, app_store_app_id, app_store_name, nu
     a_df2 = a_df2.where(pd.notnull(a_df2), None)
 
     result = pd.concat([g_df2, a_df2])
-    result.to_csv(export_file_name)
+    result.to_csv(export_file_name, mode='a', header=not os.path.exists(export_file_name))
