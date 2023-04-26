@@ -6,6 +6,7 @@ from google_play_scraper import Sort, reviews
 import os
 import time
 
+
 def fetch_reviews_to_csv_play_store(app_name, play_store_app_id, number_of_reviews, export_file_name):
     g_reviews, _ = reviews(
         play_store_app_id,

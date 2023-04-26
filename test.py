@@ -1,7 +1,10 @@
 from util import *
 import pathlib
+from serpapi import GoogleSearch
 
-strs = "TNT,com.turner.tnt.android.networkapp,460494135,watch-tnt"
+apps_not_present = ["Flashlight & LED Torch"]
+
+strs = "Resilio Sync,com.cleanmaster.security,917410266,sync-secure-cloud-storage"
 
 row = strs.split(",")
 
@@ -11,7 +14,7 @@ app_store_app_id = row[2]
 app_store_name = row[3]
 number_of_reviews = 200 # MUST BE Multiple of 20
 
-file = pathlib.Path(__file__).parent / 'csv' / 'entertainment.csv'
+file = pathlib.Path(__file__).parent / 'csv' / 'tools.csv'
 
 fetch_reviews_to_csv(app_name = app_name,
                     play_store_app_id = play_store_app_id, 

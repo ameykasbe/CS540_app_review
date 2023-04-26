@@ -3,13 +3,14 @@ from util import *
 import pathlib
 import os
 import traceback
+import time
 
 path = pathlib.Path(__file__).parent / 'csv'
 children = path.glob('**/*')
 file_paths = [file for file in children if file.is_file() and ".csv" in file.name] # All csv files
 
 
-file = pathlib.Path(__file__).parent / 'csv' / 'e_commerce.csv'
+file = pathlib.Path(__file__).parent / 'csv' / 'tools.csv'
 header_skipped = False
 with open(file) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
@@ -22,7 +23,7 @@ with open(file) as csv_file:
         number_of_reviews = 200 # MUST BE Multiple of 20
         try:
             fetch_reviews_to_csv(app_name = app_name,
-                                    play_store_app_id = play_store_app_id, 
+                                    play_store_app_id = play_store_app_id,
                                     app_store_app_id = app_store_app_id,
                                     app_store_name = app_store_name,
                                     number_of_reviews = number_of_reviews,
