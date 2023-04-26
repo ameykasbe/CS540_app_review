@@ -1,6 +1,6 @@
 App Name,Google Play Store ID,iOS App Store ID,iOS Bundle Identifier
 Facebook,com.facebook.katana,284882215,com.facebook.Facebook
-Instagram,com.instagram.android,389801252,com.burbn.instagram
+Instagram,com.instagram.android,389801252,instagram
 Twitter,com.twitter.android,333903271,com.twitter.android
 Snapchat,com.snapchat.android,447188370,com.snapchat.android
 WhatsApp Messenger,com.whatsapp,310633997,net.whatsapp.WhatsApp
@@ -21,12 +21,12 @@ Skype - free IM & video calls,com.skype.raider,304878510,com.skype.skype
 Grindr,com.grindrapp.android,319881193,com.grindrapp.Grindr
 Houseparty,com.herzick.houseparty,1065781769,com.herzick.houseparty
 Signal Private Messenger,org.thoughtcrime.securesms,874139669,org.whispersystems.signalservice
-Weibo International Edition,com.weico.international,558261612,com.weico.international
+Slack,com.Slack,618783545,slack
 OK,com.ok.android,417281773,ru.ok.android
-Likee - Let You Shine,video.like,1378542183,video.like
+Likee - Let You Shine,video.like,1251790681,likee-short-video-community
 Reddit,com.reddit.frontpage,1064216828,com.reddit.Reddit
 KakaoTalk: Free Calls & Text,com.kakao.talk,362057947,com.kakao.talk
 Tango - Live Video Broadcasts and Streaming Chats,com.sgiggle.production,372513032,com.sgiggle.production
-ooVoo,com.oovoo,789852551,com.oovoo
-LinkedIn,com.linkedin.android,1455363857,com.linkedin.LinkedIn
+Quora,com.quora.android,456034437,quora
+Twitch,tv.twitch.android.app,460177396,twitch-live-game-streaming
 Medium,com.medium.reader,828256236,com.medium.reader
