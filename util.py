@@ -60,8 +60,8 @@ def fetch_reviews_to_csv_app_store(app_name, app_store_app_id, app_store_name, n
 
 
 def fetch_reviews_to_csv(app_name, play_store_app_id, app_store_app_id, app_store_name, number_of_reviews, export_file_name):
-    # fetch_reviews_to_csv_play_store(app_name, play_store_app_id, number_of_reviews, export_file_name)
-    fetch_reviews_to_csv_app_store(app_name, app_store_app_id, app_store_name, number_of_reviews, export_file_name)
+    fetch_reviews_to_csv_play_store(app_name, play_store_app_id, number_of_reviews, export_file_name)
+    # fetch_reviews_to_csv_app_store(app_name, app_store_app_id, app_store_name, number_of_reviews, export_file_name)
 
     
     
