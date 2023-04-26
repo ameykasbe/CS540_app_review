@@ -11,7 +11,7 @@ def fetch_reviews_to_csv_play_store(app_name, play_store_app_id, number_of_revie
         play_store_app_id,
         lang='en',  # defaults to 'en'
         country='us',  # defaults to 'us'
-        sort=Sort.NEWEST,  # defaults to Sort.MOST_RELEVANT
+        sort=Sort.MOST_RELEVANT,  # defaults to Sort.MOST_RELEVANT
         count = number_of_reviews
     )
 
@@ -60,8 +60,8 @@ def fetch_reviews_to_csv_app_store(app_name, app_store_app_id, app_store_name, n
 
 
 def fetch_reviews_to_csv(app_name, play_store_app_id, app_store_app_id, app_store_name, number_of_reviews, export_file_name):
-    # fetch_reviews_to_csv_play_store(app_name, play_store_app_id, number_of_reviews, export_file_name)
-    fetch_reviews_to_csv_app_store(app_name, app_store_app_id, app_store_name, number_of_reviews, export_file_name)
+    fetch_reviews_to_csv_play_store(app_name, play_store_app_id, number_of_reviews, export_file_name)
+    # fetch_reviews_to_csv_app_store(app_name, app_store_app_id, app_store_name, number_of_reviews, export_file_name)
 
     
     

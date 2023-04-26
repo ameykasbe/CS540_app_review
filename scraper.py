@@ -9,7 +9,7 @@ children = path.glob('**/*')
 file_paths = [file for file in children if file.is_file() and ".csv" in file.name] # All csv files
 
 
-file = pathlib.Path(__file__).parent / 'csv' / 'e_commerce.csv'
+file = pathlib.Path(__file__).parent / 'csv' / 'games.csv' # Change according to category
 header_skipped = False
 with open(file) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
